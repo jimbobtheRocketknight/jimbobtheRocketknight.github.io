@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: blue;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -109,6 +109,28 @@ strong, b {
 img {
   max-width: 100%;
 }
+
+table {
+border-collapse: collapse;
+width: 100%;
+}
+
+table, th, td {
+border: 1px solid white;
+background-color:#984b43;
+
+}
+
+td {
+vertical-align: middle; 
+padding: 10px;
+} 
+
+th {
+color: white;
+background: #233237;
+height:50px;
+vertical-align: middle;
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
