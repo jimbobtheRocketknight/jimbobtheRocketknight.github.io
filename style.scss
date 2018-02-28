@@ -5,9 +5,6 @@
 // IMPORTS
 //
 
-
-docker run --rm -it -p 4000:4000 -v "$PWD":/app -w /app etelej/jeky
-
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
