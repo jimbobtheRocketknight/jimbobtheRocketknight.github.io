@@ -31,8 +31,8 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 150%;
-	background: linear-gradient(red, yellow, blue);
-        border-radius: 25px;	
+	 background: radial-gradient(circle, red, yellow, green); /* Standard syntax (must be last) */
+	border-radius: 25px;	
 }
 
 h1, h2, h3, h4, h5, h6 {
