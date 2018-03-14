@@ -73,12 +73,11 @@ h4 {
   color: $gray;
 }
 
-p.italic {
-    font-style: italic;
-}
-
 p {
   margin: 15px 0;
+	p.italic {
+    font-style: italic;
+}
 }
 
 a {
