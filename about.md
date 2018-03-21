@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a student at DCGS and this is my weekly IT lesson blog.Please read on you might find it interesting.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+james.knight@gmail.org
